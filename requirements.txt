@@ -1,0 +1,13 @@
+django
+python-dotenv
+str2bool
+
+# UI
+django-admin-soft-dashboard
+
+# Deployment
+whitenoise
+gunicorn
+
+# psycopg2-binary
+# mysqlclient
