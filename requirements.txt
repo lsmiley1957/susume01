@@ -1,4 +1,4 @@
-django
+django==4.1
 python-dotenv
 str2bool
 
@@ -11,3 +11,12 @@ gunicorn
 
 # psycopg2-binary
 # mysqlclient
+django-s3-sqlite
+
+# psycopg2
+pycodestyle
+psycopg2-binary
+
+# psycopg2-binary
+# mysqlclient
+# django-s3-sqlite==3.26.0
