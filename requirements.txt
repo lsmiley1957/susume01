@@ -17,6 +17,3 @@ django-s3-sqlite
 pycodestyle
 psycopg2-binary
 
-# psycopg2-binary
-# mysqlclient
-# django-s3-sqlite==3.26.0
