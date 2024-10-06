@@ -2,6 +2,11 @@ django==4.2.15
 python-dotenv
 str2bool
 
+django-extensions
+djangorestframework
+channels
+channels_redis
+django-htmx
 # UI
 django-admin-soft-dashboard
 

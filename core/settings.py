@@ -52,6 +52,10 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     "home",
+    # "users",
+    "susume",
+
+
 ]
 
 MIDDLEWARE = [
